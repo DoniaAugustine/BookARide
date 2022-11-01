@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_all_bookings.xml" value="0.20811004638671876" />
+        <entry key="app/src/main/res/layout/activity_booking_status.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_griditem_textview.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_individual_booking.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1724137931034483" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25109221969825635" />
+        <entry key="app/src/main/res/layout/activity_map_view.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_signup_page.xml" value="0.2103759765625" />
+        <entry key="app/src/main/res/layout/activity_singlebooking_details.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_vehicle_details.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/admin_activity.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/gridview.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/input_info.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/vv.xml" value="0.24479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".All_bookings">
+
+
+
+    <GridView
+        android:id="@+id/gridcollection"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:columnWidth="80dp"
+        android:listSelector="#0f0"
+        android:numColumns="3"
+        android:verticalSpacing="50dp"
+        tools:layout_conversion_absoluteHeight="579dp"
+        tools:layout_conversion_absoluteWidth="411dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" >
+
+
+    </GridView>
+
+</LinearLayout>
+
